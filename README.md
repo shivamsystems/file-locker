@@ -6,12 +6,6 @@
 
 A premium, locally-hosted, military-grade encryption tool built with Python. Don't just hide your files—destroy the originals.
 
-Python
-
-License
-
-Platform
-
 ## **🌟 Why Zero-Trust?**
 
 Most "Folder Lockers" just hide your files or change Windows permissions. A hacker with admin access can bypass those in seconds. **Zero-Trust Locker** uses real AES-256 encryption. If they don't have the password, the data is mathematically unreadable.
@@ -124,4 +118,3 @@ git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/Zero-Trust-Locker.git
 
 git push -u origin main
-
