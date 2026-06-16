@@ -32,7 +32,7 @@ Most "Folder Lockers" just hide your files or change Windows permissions. A hack
 1. Clone the repo:
     
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Zero-Trust-Locker.gitcd Zero-Trust-Locker
+    git clone https://github.com/shivamsystems/file-locker.git cd file-locker
     ```
     
 2. Install dependencies:
@@ -115,6 +115,6 @@ git commit -m "Initial commit: Zero-Trust File Locker with secure wiping"
 
 git branch -M main
 
-git remote add origin https://github.com/YOUR_USERNAME/Zero-Trust-Locker.git
+git remote add origin [https://github.com/YOUR_USERNAME/Zero-Trust-Locker.git]https://github.com/shivamsystems/file-locker.git
 
 git push -u origin main
