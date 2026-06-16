@@ -115,6 +115,7 @@ git commit -m "Initial commit: Zero-Trust File Locker with secure wiping"
 
 git branch -M main
 
-git remote add origin [https://github.com/YOUR_USERNAME/Zero-Trust-Locker.git]https://github.com/shivamsystems/file-locker.git
+git remote add origin
+https://github.com/shivamsystems/file-locker.git
 
 git push -u origin main
